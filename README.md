@@ -1,3 +1,1 @@
-Global X Link 
-
-developer nasir
+Globe x 
