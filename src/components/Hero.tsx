@@ -54,20 +54,15 @@ const Hero = () => {
       
       {/* Logo - Top Left */}
       <div className="absolute top-8 left-8 z-20">
-  <div className="bg-white/10 backdrop-blur-sm rounded-lg px-6 py-3 flex items-center gap-3">
-    
-    <img 
-      src="/globexlink-logo-banner.jpg" 
-      alt="GlobexLink Logo" 
-      className="w-10 h-10 object-contain rounded-sm" 
-    />
-
-    <h1 className="text-2xl font-bold text-white">
-      <span className="text-blue-400">Global</span>XLink
-    </h1>
-
-  </div>
-</div>
+      <div className="bg-white/10 backdrop-blur-sm rounded-lg px-1 py-1 flex items-center gap-1">
+        
+        <img 
+          src="/globalxlink-logo-banner.jpg" 
+          alt="GlobexLink Logo" 
+          className="w-80 h-10 object-contain rounded-sm" 
+        />
+      </div>
+    </div>
 
 
       {/* Main Content */}
